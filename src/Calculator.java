@@ -13,4 +13,9 @@ public class Calculator {
     {
         return num1*num2;
     }
+
+    public static double divide(double number1, double number2)
+    {
+        return number1/number2;
+    }
 }
