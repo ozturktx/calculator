@@ -12,7 +12,7 @@ public class Calculator {
     public static double multiply(double num1, double num2)
     {
         double m=num1*num2;//this is the conflict
-        return m;
+        return m; // this returns a double
     }
 
     public static double divide(double num1, double num2)
