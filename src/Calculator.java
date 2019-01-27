@@ -11,7 +11,7 @@ public class Calculator {
     //adding here
     public static double multiply(double num1, double num2)
     {
-        double m=num1*num2;
+        double m=num1*num2;//this is the conflict
         return m;
     }
 
