@@ -1,5 +1,5 @@
 public class Calculator {
-
+// this is the yeni master
     public static double add(double num1,double num2)
     {
         return num1+num2;
